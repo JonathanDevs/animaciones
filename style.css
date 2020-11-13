@@ -138,8 +138,6 @@ body{
     animation: line-anim 2s ease forwards 4.6s;
 }
 
-
-
 @keyframes line-anim{
     to{
         stroke-dashoffset: 0;
