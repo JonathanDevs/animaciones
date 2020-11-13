@@ -1,2 +1,2 @@
-<h1 href="https://jonathandevs.github.io/animaciones/"> animaciones <h1>
+<a href="https://jonathandevs.github.io/animaciones/"> animaciones <a>
 Pruebas en texto animado
